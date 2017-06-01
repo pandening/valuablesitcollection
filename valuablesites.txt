@@ -4,5 +4,7 @@ For Spark Learn:
                 
 NLP:
                 https://github.com/NLPchina
+                http://www.cnblogs.com/shishanyuan/p/4699644.html
+                http://blog.csdn.net/yirenboy/article/details/47844649
 
 
