@@ -1,6 +1,7 @@
 For Spark Learn: 
                 http://blog.jasonding.top/
                 http://www.cnblogs.com/sharpxiajun/p/5506822.html
+                http://blog.csdn.net/pengych_321/article/details/51792845
                 
 NLP:
                 https://github.com/NLPchina
