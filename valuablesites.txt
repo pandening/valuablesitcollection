@@ -12,5 +12,8 @@ NLP:
                 https://github.com/NLPchina
                 http://www.cnblogs.com/shishanyuan/p/4699644.html
                 http://blog.csdn.net/yirenboy/article/details/47844649
+                
+ML:
+               http://www.cnblogs.com/tornadomeet/p/3395593.html
 
 
