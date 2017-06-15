@@ -7,6 +7,7 @@ For Spark Learn:
                 http://www.cnblogs.com/nucdy/p/6541564.html
                 http://blog.csdn.net/qq1010885678/article/details/46050875
                 http://spark.apache.org/docs/latest/quick-start.html
+                http://blog.csdn.net/rongyongfeikai2/article/details/54986133
                 
 NLP:
                 https://github.com/NLPchina
