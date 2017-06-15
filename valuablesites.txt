@@ -21,5 +21,6 @@ ML:
 Blog:
                http://blog.bcmeng.com/
                http://www.jiuzhang.com/?referer=38beb6
+               http://blog.codinglabs.org/articles/getting-started-with-ubuntu.html
 
 
