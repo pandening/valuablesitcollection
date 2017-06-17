@@ -24,5 +24,6 @@ Blog:
                http://blog.codinglabs.org/articles/getting-started-with-ubuntu.html
                http://man.linuxde.net/
                http://www.jiuzhang.com/
+               http://chenzhenianqing.cn
 
 
