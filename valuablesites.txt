@@ -25,5 +25,6 @@ Blog:
                http://man.linuxde.net/
                http://www.jiuzhang.com/
                http://chenzhenianqing.cn
+               http://www.cnblogs.com/oubo/
 
 
