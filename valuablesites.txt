@@ -26,5 +26,8 @@ Blog:
                http://www.jiuzhang.com/
                http://chenzhenianqing.cn
                http://www.cnblogs.com/oubo/
+               
+Thrift:
+              https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/
 
 
